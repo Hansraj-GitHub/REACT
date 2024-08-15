@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react by hansraj",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hansraj-GitHub/REACT.git"
+  },
+  "author": "hansraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hansraj-GitHub/REACT/issues"
+  },
+  "homepage": "https://github.com/Hansraj-GitHub/REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browswelist":[
+    "last 2 version"
+  ]
+}
